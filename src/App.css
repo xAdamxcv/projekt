@@ -1,0 +1,22 @@
+
+
+.tabela{
+    width: 100%;
+    background-color: red;
+    display: flex;
+  
+
+}
+.tableBoxOne{
+    background-color: green;
+}
+.tableBoxTwo{
+    background-color: gray;
+
+}
+.searchList{
+    background-color: blue;
+}
+.searchListTwo{
+    background-color: yellow;
+}
